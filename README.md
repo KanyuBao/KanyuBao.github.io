@@ -35,7 +35,7 @@
 <b>QQ:</b> 1244261881
 </li>
 <li>
-<b>Idol:</b> Stephen Curry
+<b>Best Player:</b> Stephen Curry
 </li>
 <li>
 <b>Email:</b> 23B936045@stu.hit.edu.cn
