@@ -24,27 +24,25 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Sarah</li>
-  <li>
-<b>Deadname:</b> Dominic
+ <b>Name:</b> Kanyu Bao</li>
 </li>
 <li>
-<b>Fursona:</b> Snow Fox
+<b>Gender:</b> Male
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> anime, basketball, Triss❤
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>QQ:</b> 1244261881
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
+<b>Idol:</b> Stephen Curry
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Email:</b> 23B936045@stu.hit.edu.cn
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Studying @:</b> HITSZ
 </li>
 <br><br><br>
 </div>
